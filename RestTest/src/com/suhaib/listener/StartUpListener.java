@@ -17,14 +17,14 @@ public class StartUpListener implements ServletContextListener {
 	 * Default constructor.
 	 */
 	public StartUpListener() {
-	
+		// TODO Auto-generated constructor stub test
 	}
 
 	/**
 	 * @see ServletContextListener#contextDestroyed(ServletContextEvent)
 	 */
 	public void contextDestroyed(ServletContextEvent arg0) {
-		
+		// TODO Auto-generated constructor stub test
 	}
 
 	/**
